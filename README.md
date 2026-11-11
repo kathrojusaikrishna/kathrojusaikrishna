@@ -1,64 +1,73 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kathroju%20Sai%20Krishna&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20ML%20Explorer&descAlignY=58&descSize=16" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi,+I'm+Sai+Krishna+👋;I+build+full-stack+MERN+applications;I+solve+DSA+problems+in+C%2B%2B+daily;I+explore+ML,+computer+vision+%26+security" alt="Typing SVG" />
+  <a href="https://github.com/kathrojusaikrishna">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Full-Stack+Developer;MERN+Stack+Applications;Problem+Solving+with+DSA;Machine+Learning+and+Secure+Systems" alt="Typing animation" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/kathroju-saikrishna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/kathroju_saikrishna"><img src="https://img.shields.io/badge/LeetCode-1F1F1F?style=flat-square&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="mailto:kathsaikrishnaper@gmail.com"><img src="https://img.shields.io/badge/Email-1F1F1F?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 🛠️ I build full-stack web apps with the **MERN stack** (auth, REST APIs, caching, testing)
-- 🧠 I practice **Data Structures & Algorithms** in C++ and keep my solutions on GitHub
-- 🤖 I explore **machine learning and computer vision** (NLP recommenders, YOLOv8 detection)
-- 🔐 I'm interested in **applied cryptography and secure system design**
-- 📊 I've worked with **big data tooling** (HDFS, Pig, Hive)
-- 💬 Ask me about: **React, Node.js, MongoDB, DSA, Python**
+I build full-stack applications with the MERN stack, covering authentication, REST APIs, caching and automated testing. I practice algorithmic problem solving in C++ and apply machine learning and cryptography in project work.
 
-## 🧰 Tech Stack
+## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,redis,flask,sklearn,pandas,jest,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,redis,flask,sklearn,jest,git,github,vscode&perline=15" />
 </p>
 
-## 🚀 Featured Projects
+| Area | Technologies |
+|---|---|
+| Languages | C++, Python, JavaScript, TypeScript |
+| Frontend | React |
+| Backend | Node.js, Express, Flask, REST APIs, JWT |
+| Databases | MongoDB, Redis |
+| ML / Data | scikit-learn, pandas, YOLOv8, OpenCV, Hadoop (HDFS, Pig, Hive) |
+| Tools | Git, GitHub, Jest, VS Code |
 
-| Project | What it does | Tech |
-|---|---|---|
-| [**dsa-coach-2.0**](https://github.com/kathrojusaikrishna/dsa-coach-2.0) | Personalized DSA prep platform with JWT auth, LeetCode integration, progress tracking and smart problem recommendations | `React` `Node.js` `Redis` `MongoDB` `Jest` |
-| [**CipherExam**](https://github.com/kathrojusaikrishna/CipherExam) | Secure exam-paper distribution using AES-256-GCM, RSA-OAEP, digital signatures and role-based access | `MERN` `Cryptography` |
-| [**iStayZ**](https://github.com/kathrojusaikrishna/iStayZ) | Hotel booking platform with secure auth, hotel discovery and reservation management | `React` `Express` `JWT` `MongoDB` |
-| [**AI-Movie-Recommender**](https://github.com/kathrojusaikrishna/AI-Movie-Recommender) | Movie recommender using NLP and cosine similarity, with posters from the TMDB API | `Flask` `React` `scikit-learn` |
-| [**pothole-detection-yolov8**](https://github.com/kathrojusaikrishna/pothole-detection-yolov8) | YOLOv8 pothole detector trained from scratch, with evaluation metrics and a reproducible notebook | `Python` `YOLOv8` `OpenCV` |
-| [**LeetCode**](https://github.com/kathrojusaikrishna/LeetCode) | C++ solutions covering arrays, graphs, DP, trees and more | `C++` `DSA` |
+## Selected Projects
 
-## 📊 GitHub Stats
+**[dsa-coach-2.0](https://github.com/kathrojusaikrishna/dsa-coach-2.0)**
+Personalized DSA preparation platform with JWT authentication, LeetCode integration, progress tracking and problem recommendations.
+`React` `Node.js` `Express` `MongoDB` `Redis` `Jest`
+
+**[CipherExam](https://github.com/kathrojusaikrishna/CipherExam)**
+Secure exam paper distribution system using AES-256-GCM encryption, RSA-OAEP key exchange, digital signatures and role-based access control.
+`React` `Node.js` `MongoDB` `Cryptography`
+
+**[iStayZ](https://github.com/kathrojusaikrishna/iStayZ)**
+Hotel booking platform with secure authentication, hotel discovery and reservation management.
+`React` `Node.js` `Express` `MongoDB` `JWT`
+
+**[AI-Movie-Recommender](https://github.com/kathrojusaikrishna/AI-Movie-Recommender)**
+Content-based movie recommendation system using NLP and cosine similarity, with poster integration through the TMDB API.
+`Python` `Flask` `React` `scikit-learn` `pandas`
+
+**[pothole-detection-yolov8](https://github.com/kathrojusaikrishna/pothole-detection-yolov8)**
+Pothole detection model trained from scratch with YOLOv8, including evaluation metrics, prediction visualizations and a reproducible training notebook.
+`Python` `YOLOv8` `Computer Vision`
+
+**[LeetCode](https://github.com/kathrojusaikrishna/LeetCode)**
+Solutions in C++ covering arrays, linked lists, graphs, dynamic programming and trees.
+`C++` `Data Structures` `Algorithms`
+
+## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kathrojusaikrishna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathrojusaikrishna&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kathrojusaikrishna&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathrojusaikrishna&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kathrojusaikrishna&theme=tokyonight&hide_border=true" />
-</p>
+## Contact
 
-## 🧩 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/kathroju_saikrishna">
-    <img src="https://leetcard.jacoblin.cool/kathroju_saikrishna?theme=dark&font=Karma&ext=heatmap" />
-  </a>
-</p>
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/kathroju-saikrishna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/kathroju_saikrishna"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:kathsaikrishnaper@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+Open to internships, full-time roles and collaboration. The best way to reach me is through [LinkedIn](https://linkedin.com/in/kathroju-saikrishna) or at kathsaikrishnaper@gmail.com.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
