@@ -8,22 +8,22 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🛠️ I build full-stack web apps with the **MERN stack** (auth, REST APIs, caching, testing)
-- 🧠 I practice **Data Structures & Algorithms** in C++ and keep my solutions on GitHub
-- 🤖 I explore **machine learning and computer vision** (NLP recommenders, YOLOv8 detection)
-- 🔐 I'm interested in **applied cryptography and secure system design**
-- 📊 I've worked with **big data tooling** (HDFS, Pig, Hive)
-- 💬 Ask me about: **React, Node.js, MongoDB, DSA, Python**
+-  I build full-stack web apps with the **MERN stack** (auth, REST APIs, caching, testing)
+-  I practice **Data Structures & Algorithms** in C++ and keep my solutions on GitHub
+-  I explore **machine learning and computer vision** (NLP recommenders, YOLOv8 detection)
+-  I'm interested in **applied cryptography and secure system design**
+-  I've worked with **big data tooling** (HDFS, Pig, Hive)
+-  Ask me about: **React, Node.js, MongoDB, DSA, Python**
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,redis,flask,sklearn,jest,git,github,vscode&perline=15" alt="Tech stack icons" />
 </p>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it does | Tech |
 |---|---|---|
@@ -34,7 +34,7 @@
 | [**pothole-detection-yolov8**](https://github.com/kathrojusaikrishna/pothole-detection-yolov8) | YOLOv8 pothole detector trained from scratch, with evaluation metrics and a reproducible notebook | `Python` `YOLOv8` `OpenCV` |
 | [**LeetCode**](https://github.com/kathrojusaikrishna/LeetCode) | C++ solutions covering arrays, graphs, DP, trees and more | `C++` `DSA` |
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kathrojusaikrishna&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=43200" />
@@ -45,7 +45,7 @@
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=kathrojusaikrishna&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🧩 LeetCode
+##  LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/kathroju_saikrishna">
@@ -53,7 +53,7 @@
   </a>
 </p>
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/kathroju-saikrishna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
